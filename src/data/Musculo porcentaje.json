@@ -1,0 +1,93 @@
+[
+    {
+        "Deporte": "Natación",
+        "Espalda y Hombros (%)": "90%",
+        "Piernas (%)": "70%",
+        "Core (%)": "90%",
+        "Altura (Promedio)": "1.85m"
+    },
+    {
+        "Deporte": "Gimnasia Piso",
+        "Espalda y Hombros (%)": "70%",
+        "Piernas (%)": "60%",
+        "Core (%)": "90%",
+        "Altura (Promedio)": "1.60m"
+    },
+    {
+        "Deporte": "Gimnasia Barras",
+        "Espalda y Hombros (%)": "80%",
+        "Piernas (%)": "50%",
+        "Core (%)": "90%",
+        "Altura (Promedio)": "1.55m"
+    },
+    {
+        "Deporte": "Hockey sobre Césped",
+        "Espalda y Hombros (%)": "60%",
+        "Piernas (%)": "85%",
+        "Core (%)": "80%",
+        "Altura (Promedio)": "1.72m"
+    },
+    {
+        "Deporte": "Fútbol",
+        "Espalda y Hombros (%)": "70%",
+        "Piernas (%)": "90%",
+        "Core (%)": "70%",
+        "Altura (Promedio)": "1.80m"
+    },
+    {
+        "Deporte": "Carreras de Velocidad",
+        "Espalda y Hombros (%)": "80%",
+        "Piernas (%)": "100%",
+        "Core (%)": "60%",
+        "Altura (Promedio)": "1.85m"
+    },
+    {
+        "Deporte": "Carreras de Media Distancia",
+        "Espalda y Hombros (%)": "0%",
+        "Piernas (%)": "80%",
+        "Core (%)": "100%",
+        "Altura (Promedio)": "1.80m"
+    },
+    {
+        "Deporte": "Carreras de Larga Distancia",
+        "Espalda y Hombros (%)": "0%",
+        "Piernas (%)": "70%",
+        "Core (%)": "100%",
+        "Altura (Promedio)": "1.80m"
+    },
+    {
+        "Deporte": "Lanzamiento de Peso",
+        "Espalda y Hombros (%)": "100%",
+        "Piernas (%)": "60%",
+        "Core (%)": "30%",
+        "Altura (Promedio)": "1.85m"
+    },
+    {
+        "Deporte": "Lanzamiento de Martillo",
+        "Espalda y Hombros (%)": "100%",
+        "Piernas (%)": "60%",
+        "Core (%)": "30%",
+        "Altura (Promedio)": "1.85m"
+    },
+    {
+        "Deporte": "Lanzamiento de Disco",
+        "Espalda y Hombros (%)": "100%",
+        "Piernas (%)": "60%",
+        "Core (%)": "30%",
+        "Altura (Promedio)": "1.85m"
+    },
+    {
+        "Deporte": "Lanzamiento de Jabalina",
+        "Espalda y Hombros (%)": "100%",
+        "Piernas (%)": "60%",
+        "Core (%)": "30%",
+        "Altura (Promedio)": "1.85m"
+    },
+    {
+        "Deporte": "Básquetbol",
+        "Espalda y Hombros (%)": "70%",
+        "Piernas (%)": "80%",
+        "Core (%)": "70%",
+        "Altura (Promedio)": "1.98m"
+    }
+]

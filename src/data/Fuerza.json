@@ -1,0 +1,119 @@
+[
+    {
+        "Deporte": "Natación",
+        "Fuerza (kg)": "80-100 kg",
+        "Data fuerza": "Tracción en la piscina",
+        "Velocidad Máxima (km/h)": "7-9 km/h",
+        "Data velocidad": "Sprint",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "60-70",
+        "Data resistencia": "Alto VO2 max"
+    },
+    {
+        "Deporte": "Gimnasia Piso",
+        "Fuerza (kg)": "60-80 kg",
+        "Data fuerza": "En levantamientos y saltos",
+        "Velocidad Máxima (km/h)": "7-10 km/h",
+        "Data velocidad": "Aceleración de saltos",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "55-65",
+        "Data resistencia": "Dependiendo de la disciplina"
+    },
+    {
+        "Deporte": "Gimnasia Barras",
+        "Fuerza (kg)": "70-100 kg",
+        "Data fuerza": "En levantamientos y giros",
+        "Velocidad Máxima (km/h)": "6-8 km/h",
+        "Data velocidad": "Aceleración en giros",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "50-60",
+        "Data resistencia": "Varía según el nivel"
+    },
+    {
+        "Deporte": "Hockey",
+        "Fuerza (kg)": "50-90 kg",
+        "Data fuerza": "Fuerza aplicada en el stick",
+        "Velocidad Máxima (km/h)": "30-40 km/h",
+        "Data velocidad": "Pico en carrera",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "50-60",
+        "Data resistencia": "Aalto debido a la intensidad del deporte"
+    },
+    {
+        "Deporte": "Fútbol",
+        "Fuerza (kg)": "70-110 kg",
+        "Data fuerza": "En sprints y saltos",
+        "Velocidad Máxima (km/h)": "32-35 km/h",
+        "Data velocidad": "Pico en carrera",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "60-70",
+        "Data resistencia": "Aeróbico moderado, alta resistencia"
+    },
+    {
+        "Deporte": "Carreras de Velocidad (100m)",
+        "Fuerza (kg)": "90-110 kg",
+        "Data fuerza": "Fuerza en salida",
+        "Velocidad Máxima (km/h)": "37-45 km/h",
+        "Data velocidad": "En los 100m",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "55-60",
+        "Data resistencia": "VO2 max intermedio por la poca distancia"
+    },
+    {
+        "Deporte": "Carreras de Media Distancia (400m)",
+        "Fuerza (kg)": "60-80 kg",
+        "Data fuerza": "En entrenamientos de resistencia",
+        "Velocidad Máxima (km/h)": "30-35 km/h",
+        "Data velocidad": "En los 400m",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "70-75",
+        "Data resistencia": "Alto VO2 max"
+    },
+    {
+        "Deporte": "Carreras de Larga Distancia",
+        "Fuerza (kg)": "50-70 kg",
+        "Data fuerza": "Fuerza moderada en zancada",
+        "Velocidad Máxima (km/h)": "20-25 km/h",
+        "Data velocidad": "En los 5000m",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "75-80",
+        "Data resistencia": "Muy alto VO2 max por la larga distancia"
+    },
+    {
+        "Deporte": "Lanzamiento de Peso",
+        "Fuerza (kg)": "150-200 kg",
+        "Data fuerza": "En el levantamiento de peso",
+        "Velocidad Máxima (km/h)": "5-7 km/h",
+        "Data velocidad": "Durante el giro",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "45-55",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Martillo",
+        "Fuerza (kg)": "150-180 kg",
+        "Data fuerza": "En el giro y lanzamiento",
+        "Velocidad Máxima (km/h)": "5-8 km/h",
+        "Data velocidad": "Durante el giro",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "45-55",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Disco",
+        "Fuerza (kg)": "120-180 kg",
+        "Data fuerza": "En el impulso del disco",
+        "Velocidad Máxima (km/h)": "5-8 km/h",
+        "Data velocidad": "En el impulso",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "45-55",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Jabalina",
+        "Fuerza (kg)": "130-180 kg",
+        "Data fuerza": "En el impulso de la jabalina",
+        "Velocidad Máxima (km/h)": "5-8 km/h",
+        "Data velocidad": "En el impulso",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "45-55",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Básquetbol",
+        "Fuerza (kg)": "70-100 kg",
+        "Data fuerza": "Fuerza de salto y rebote",
+        "Velocidad Máxima (km/h)": "25-30 km/h",
+        "Data velocidad": "Sprint",
+        "Resistencia Aeróbica (VO2 máximo ml/kg/min)": "60-65",
+        "Data resistencia": "VO2 moderado, resistencia aeróbica media"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "Deporte": "Natación",
+        "Fuerza (%)": "70%",
+        "Data fuerza": "Tracción en la piscina",
+        "Velocidad (%)": "60%",
+        "Data velocidad": "Sprint",
+        "Resistencia Aeróbica (%)": "90%",
+        "Data resistencia": "Alto VO2 max"
+    },
+    {
+        "Deporte": "Gimnasia Piso",
+        "Fuerza (%)": "60%",
+        "Data fuerza": "En levantamientos y saltos",
+        "Velocidad (%)": "50%",
+        "Data velocidad": "Aceleración de saltos",
+        "Resistencia Aeróbica (%)": "90%",
+        "Data resistencia": "Dependiendo de la disciplina"
+    },
+    {
+        "Deporte": "Gimnasia Barras",
+        "Fuerza (%)": "80%",
+        "Data fuerza": "En levantamientos y giros",
+        "Velocidad (%)": "40%",
+        "Data velocidad": "Aceleración en giros",
+        "Resistencia Aeróbica (%)": "80%",
+        "Data resistencia": "Varía según el nivel"
+    },
+    {
+        "Deporte": "Hockey sobre Césped",
+        "Fuerza (%)": "60%",
+        "Data fuerza": "Fuerza aplicada en el stick",
+        "Velocidad (%)": "80%",
+        "Data velocidad": "Pico en carrera",
+        "Resistencia Aeróbica (%)": "70%",
+        "Data resistencia": "Aalto debido a la intensidad del deporte"
+    },
+    {
+        "Deporte": "Fútbol",
+        "Fuerza (%)": "60%",
+        "Data fuerza": "En sprints y saltos",
+        "Velocidad (%)": "80%",
+        "Data velocidad": "Pico en carrera",
+        "Resistencia Aeróbica (%)": "70%",
+        "Data resistencia": "Aeróbico moderado, alta resistencia"
+    },
+    {
+        "Deporte": "Carreras de Velocidad",
+        "Fuerza (%)": "70%",
+        "Data fuerza": "Fuerza en salida",
+        "Velocidad (%)": "100%",
+        "Data velocidad": "En los 100m",
+        "Resistencia Aeróbica (%)": "60%",
+        "Data resistencia": "VO2 max intermedio por la poca distancia"
+    },
+    {
+        "Deporte": "Carreras de Media Distancia",
+        "Fuerza (%)": "30%",
+        "Data fuerza": "En entrenamientos de resistencia",
+        "Velocidad (%)": "60%",
+        "Data velocidad": "En los 400m",
+        "Resistencia Aeróbica (%)": "100%",
+        "Data resistencia": "Alto VO2 max"
+    },
+    {
+        "Deporte": "Carreras de Larga Distancia",
+        "Fuerza (%)": "20%",
+        "Data fuerza": "Fuerza moderada en zancada",
+        "Velocidad (%)": "50%",
+        "Data velocidad": "En los 5000m",
+        "Resistencia Aeróbica (%)": "100%",
+        "Data resistencia": "Muy alto VO2 max por la larga distancia"
+    },
+    {
+        "Deporte": "Lanzamiento de Peso",
+        "Fuerza (%)": "100%",
+        "Data fuerza": "En el levantamiento de peso",
+        "Velocidad (%)": "40%",
+        "Data velocidad": "Durante el giro",
+        "Resistencia Aeróbica (%)": "30%",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Martillo",
+        "Fuerza (%)": "100%",
+        "Data fuerza": "En el giro y lanzamiento",
+        "Velocidad (%)": "40%",
+        "Data velocidad": "Durante el giro",
+        "Resistencia Aeróbica (%)": "30%",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Disco",
+        "Fuerza (%)": "100%",
+        "Data fuerza": "En el impulso del disco",
+        "Velocidad (%)": "40%",
+        "Data velocidad": "En el impulso",
+        "Resistencia Aeróbica (%)": "30%",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Lanzamiento de Jabalina",
+        "Fuerza (%)": "100%",
+        "Data fuerza": "En el impulso de la jabalina",
+        "Velocidad (%)": "40%",
+        "Data velocidad": "En el impulso",
+        "Resistencia Aeróbica (%)": "30%",
+        "Data resistencia": "Baja resistencia aeróbica, enfoque en fuerza"
+    },
+    {
+        "Deporte": "Básquetbol",
+        "Fuerza (%)": "50%",
+        "Data fuerza": "Fuerza de salto y rebote",
+        "Velocidad (%)": "70%",
+        "Data velocidad": "Sprint",
+        "Resistencia Aeróbica (%)": "60%",
+        "Data resistencia": "VO2 moderado, resistencia aeróbica media"
+    }
+]
